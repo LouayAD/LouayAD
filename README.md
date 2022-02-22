@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Louay AD
-#### a... developer
+#### a... programmer
 I spend  my spare time researching and making small projects. My main research focus is evolutionary algorithms. I also love making games and use what I learn through my research to prototype games and inhance my gamedev skills.
 
 Skills: Unity / Lua / C# / Qt / C++ / CSS / HTML / PHP / python
