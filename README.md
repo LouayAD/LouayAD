@@ -1,8 +1,17 @@
-- 👋 Hi, I’m LouayAD
-- 👀 I’m interested in ML & AI techs as well as game development
-- 🌱 I’m currently working on a game using unity engine
-- 💞️ I’m looking to collaborate on game development (specially games about evolution simulation)
-- 📫 How to reach me? louayad@ladlab.net
+### Hi there 👋, I'm Louay AD
+#### a... developer
+I spend  my spare time researching and making small projects. My main research focus is evolutionary algorithms. I also love making games and use what I learn through my research to prototype games and inhance my gamedev skills.
+
+Skills: Unity / Lua / C# / Qt / C++ / CSS / HTML / PHP / python
+
+- 🔭 I’m currently working on a game using unity engine 
+- 👯 I’m looking to collaborate on game development or research 
+- 📫 How to reach me: louayad@ladlab.net 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/louayad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/louayad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ladlab.net)  
+
+
 
 <!---
 LouayAD/LouayAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
