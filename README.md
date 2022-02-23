@@ -4,7 +4,8 @@ I spend  my spare time researching and making small projects. My main research f
 
 Skills: Unity / Lua / C# / Qt / C++ / CSS / HTML / PHP / python
 
-- 🔭 I’m currently working on a game using unity engine 
+- 🔭 I’m currently working on a game using unity engine
+- 🌱 I’m currently learning flutter 
 - 👯 I’m looking to collaborate on game development or research 
 - 📫 How to reach me: louayad@ladlab.net 
 
