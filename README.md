@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Louay AD
 #### a... developer
-I spend most of my time researching and making small projects. My main research focus is evolutionary algorithms & Cyber Security. I also love making games and use what I learn through my research to prototype games and inhance my gamedev skills.
+I spend most of my time researching and making small projects. My main research focus is evolutionary algorithms & cyber security. I also love making games and use what I learn through my research to prototype games and inhance my gamedev skills.
 
 Skills: Unity / C# / Lua / Qt / C++ / PHP / Python
 
