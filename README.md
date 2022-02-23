@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Louay AD
 #### a... developer
-I spend  my spare time researching and making small projects. My main research focus is evolutionary algorithms. I also love making games and use what I learn through my research to prototype games and inhance my gamedev skills.
+I spend most of my time researching and making small projects. My main research focus is evolutionary algorithms. I also love making games and use what I learn through my research to prototype games and inhance my gamedev skills.
 
-Skills: Unity / Lua / C# / Qt / C++ / CSS / HTML / PHP / python
+Skills: Unity / C# / Lua / Qt / C++ / PHP / Python
 
 - 🔭 I’m currently working on a game using unity engine
 - 🌱 I’m currently learning flutter 
