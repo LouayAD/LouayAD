@@ -2,10 +2,10 @@
 #### a... developer
 I spend most of my time researching and making small projects. My main research focus is evolutionary algorithms & cyber security. I also love making games and use what I learn through my research to prototype games and inhance my gamedev skills.
 
-Skills: Unity / C# / Lua / Qt / C++ / PHP / Python
+Skills: Unity / C# / Flutter / Qt / C++ / PHP / Python
 
 - 🔭 Working on a game using Unity game engine
-- 🌱 Learning Flutter 
+- 🌱 Learning DotNet Core 
 - 👯 Looking to collaborate on game development or research 
 - 📫 How to reach me: louayad@ladlab.net 
 
